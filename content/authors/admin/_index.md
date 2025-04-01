@@ -101,31 +101,27 @@ skills:
     items:
       - name: Tensorflow
         description: ''
-        percent: 95
+        percent: 100
         icon: code-bracket
       - name: Pytorch
         description: ''
-        percent: 85
+        percent: 95
         icon: code-bracket
       - name: C/C++
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Python
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 90
-        icon: chart-bar
       - name: MongoDB
         description: ''
-        percent: 70
+        percent: 100
         icon: circle-stack
       - name: SQL
         description: ''
-        percent: 70
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -146,7 +142,7 @@ skills:
 
 languages:
   - name: English
-    percent: 90
+    percent: 100
   - name: Korean
     percent: 100
 
